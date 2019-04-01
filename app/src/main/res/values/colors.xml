@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f0ed2</color>
+    <!-- colorPrimaryDarkを変えると上の色が変わる-->
+    <color name="colorPrimaryDark">#01579B</color>
+    <color name="colorAccent">#0047d6</color>
+</resources>
